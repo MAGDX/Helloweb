@@ -50,5 +50,5 @@
 					</ul>
 				</div>
 			</div>
-		</nav> <!-- End NabBar -->
+		</nav> <!-- End NavBar -->
 		<main class="container">
